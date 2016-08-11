@@ -4,7 +4,7 @@ GAMES REPO WITH MATH TRIVIA:
 <img src="https://github.com/rikkirabz/Math-Trivia/blob/master/MATH%20PLAY.png"/>
 
 THE URL:
-https://rikkirabz.github.io/Games/
+https://rikkirabz.github.io/Math-Trivia/
 
 THE FIRST GAME:
 MATH TRIVIA:
